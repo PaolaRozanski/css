@@ -1,8 +1,20 @@
+/* FORMATAÇÃO */
+
+
 /* HEADER */
 
 header {
     background-color: #FFC573;
-    color: #FFC573;
+    border-radius: 0 0 5vw 5vw;
+    padding-bottom: 4vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header h1 {
+    font-weight: bold;
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 
