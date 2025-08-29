@@ -1,8 +1,15 @@
+/* FORMATAÇÃO */
+
+
 /* HEADER */
 
 header {
     background-color: #FFC573;
-    color: #FFC573;
+    border-radius: 0 0 5vw 5vw;
+    padding-bottom: 4vw;
+}
+header img.barraMenu {
+    margin: ;
 }
 
 
